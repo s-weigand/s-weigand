@@ -16,6 +16,7 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 - 💬 Ask me about Python, Tooling to improve your workflow and automating stuff
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🤘 Metalhead: Can't work properly in silence, I need my music!
+- 🎱 I prefer dark themes if you do so as well check out [this theme for github](https://github.com/StylishThemes/GitHub-Dark)
 - 📖 Favorite Quote: 
   > `*Smash fist on the table*` There must be an easier way! - Raymond Hettinger
 
