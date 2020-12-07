@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi there! My name is Sebastian 👋
 
-<!--
-**s-weigand/s-weigand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=s-weigand.s-weigand)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-s.weigand.phy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:s.weigand.phy@gmail.com "Connect via Email")
+
+I'm passionate about software maintainability (quality assurance, testing, tooling, and documentation) and an advocate for open source and open science. I love to play around with data and see what it can tell you when looking at it from different angles.
+
+## ⚡ Quick facts about me
+
+- 🎓 Bachelor of Science in physics and currently finishing my master
+- 🏢 I'm currently working at [Technical University Berlin](https://www.tu.berlin/)
+- 🌱 I’m currently learning more about more advanced typing concepts in python
+- 🤔 I’m looking for help with [a python teaching project for students](https://github.com/students-teach-students/python-tools-for-students)
+- 💬 Ask me about Python, Tooling to improve your workflow and automating stuff
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 🤘 Metalhead: Can't work properly in silence, I need my music!
+- 📖 Favorite Quote: 
+  > `*Smash fist on the table*` There must be an easier way! - Raymond Hettinger
+
+<details>
+<summary>💻 Some of the technology's I use</summary>
+
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![GH-Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+</details>
+
+
+<details>
+<summary> :octocat: My Github stats</summary>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=s-weigand&show_icons=true&hide_border=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-weigand&layout=compact&theme=dark&hide_border=true)
+</details>
+
+</br>
+Oh yeah, I'm a huge fan of nerdy jokes and word plays 😜
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
