@@ -10,7 +10,7 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 ## ⚡ Quick facts about me
 
 - 🎓 Bachelor of Science in physics and currently finishing my master
-- 🏢 I'm currently working at [Technical University Berlin](https://www.tu.berlin/)
+- 🏢 I'm currently working at [Cassini Technologies](https://cassini-technologies.com/)
 - 🌱 I’m currently learning more about more advanced typing concepts in python
 - 🤔 I’m looking for help with [a python teaching project for students](https://github.com/students-teach-students/python-tools-for-students)
 - 💬 Ask me about Python, Tooling to improve your workflow and automating stuff
