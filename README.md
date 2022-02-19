@@ -2,7 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=s-weigand.s-weigand)
 
-
 [![Gmail Badge](https://img.shields.io/badge/-s.weigand.phy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:s.weigand.phy@gmail.com "Connect via Email")
 
 I'm passionate about software maintainability (quality assurance, testing, tooling, and documentation) and an advocate for open source and open science. I love to play around with data and see what it can tell you when looking at it from different angles.
@@ -17,8 +16,8 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🤘 Metalhead: Can't work properly in silence, I need my music!
 - 🎱 I prefer dark themes if you do so as well check out [this theme for github](https://github.com/StylishThemes/GitHub-Dark)
-- 📖 Favorite Quote: 
-  > `*Smash fist on the table*` There must be an easier way! - Raymond Hettinger
+- 📖 Favorite Quote:
+  > `*Smash fist on the table*` There must be an better way! - Raymond Hettinger
 
 <details>
 <summary>💻 Some of the technology's I use</summary>
@@ -33,8 +32,8 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![GH-Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-</details>
 
+</details>
 
 <details>
 <summary> :octocat: My Github stats</summary>
@@ -42,10 +41,10 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=s-weigand&show_icons=true&hide_border=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-weigand&layout=compact&theme=dark&hide_border=true)
+
 </details>
 
 </br>
 Oh yeah, I'm a huge fan of nerdy jokes and word plays 😜
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
