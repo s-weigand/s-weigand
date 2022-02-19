@@ -38,9 +38,7 @@ I'm passionate about software maintainability (quality assurance, testing, tooli
 <details>
 <summary> :octocat: My Github stats</summary>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=s-weigand&show_icons=true&hide_border=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-weigand&layout=compact&theme=dark&hide_border=true)
+![Github-Metrics](./github-metrics.svg)
 
 </details>
 
