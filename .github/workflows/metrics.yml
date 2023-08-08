@@ -25,6 +25,7 @@ jobs:
           user: s-weigand
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: true
           config_octicon: yes
           config_timezone: Europe/Berlin
           config_twemoji: yes
